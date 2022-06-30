@@ -1,0 +1,8 @@
+
+This code if for the paper "Richer feature for image classification with super and sub kernels based on deep convolutional neural network". There are 3 folders for implementation.
+
+1. caffe2: The folder includes all the files of toolkit caffe. The installation can be followed by the official turtorial on "http://caffe.berkeleyvision.org/". 
+
+2. Caltech256: It is an example to exhibit the utilization of MS-PC-DCNN on images with large size. 
+
+3. Cifar10: It is an example to exhibit the utilization of MS-PC-DCNN on tiny images. 
