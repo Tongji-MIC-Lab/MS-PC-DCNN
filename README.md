@@ -34,3 +34,4 @@ The results are shown in Fig. 2, where it is obvious that the performances are i
 Please cite the following paper when using our proposed MS-PC-DCNN.
 
 Pengjie Tang and Hanli Wang, Richer Feature for Image Classification with Super and Sub Kernels Based on Deep Convolutional Neural Network, *Computers and Electrical Engineering*, vol. 62, pp. 499-510, Aug. 2017, DOI: [10.1016/j.compeleceng.2017.01.011](http://dx.doi.org/10.1016/j.compeleceng.2017.01.011).
+
